@@ -10,6 +10,7 @@ cffi==1.17.1
 charset-normalizer==3.4.1
 click==8.1.8
 cryptography==44.0.2
+dateparser==1.2.1
 frozenlist==1.6.0
 idna==3.10
 joblib==1.4.2
@@ -18,13 +19,19 @@ nltk==3.9.1
 propcache==0.3.1
 pycares==4.6.0
 pycparser==2.22
+pycryptodome==3.22.0
+python-binance==1.0.28
+python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
+pytz==2025.2
 regex==2024.11.6
 requests==2.32.3
 setuptools==78.1.0
+six==1.17.0
 tqdm==4.67.1
 typing_extensions==4.13.2
 tzlocal==5.3.1
 urllib3==2.4.0
 vaderSentiment==3.3.2
+websockets==15.0.1
 yarl==1.20.0
