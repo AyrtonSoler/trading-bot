@@ -1,7 +1,0 @@
-ccxt
-python-binance
-requests
-python-dotenv
-vaderSentiment
-nltk
-apscheduler
